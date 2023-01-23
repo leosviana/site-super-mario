@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins';
+}
+
+.cabecalho{
+    background-color: blue; /* cor azul fundo do cabeçalho */
+    display: flex; /* Um item ao lado do outro */
+    justify-content: space-between; /* espaço entre os itens do cabeçalho */
+    padding: 30px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.cabecalho .logo{
+    width: 65px;
+}
+
+.cabecalho .menu{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.cabecalho nav li a{
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: 0.2s;
+}
+
+.cabecalho nav li a:hover {
+    background-color: #d5011d;
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
