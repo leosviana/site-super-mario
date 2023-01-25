@@ -103,6 +103,7 @@ body{
     top: 0;
     left: 0;
     background-color: rgba(52, 52, 50, 0.749);
+    opacity: 0; /* ESCONDER TODOS OS MENUS ATRÁS DA MODAL */
     visibility: hidden; /* ESCONDE O POPUP DO VIDEO */
 }
 
@@ -114,6 +115,11 @@ body{
     height: 100hv;
     border-radius: 5px;
     gap: 15px;
+}
+
+.modal .aberto{
+  opacity: 1;
+  visibility: visible;
 }
 
 .fechar-modal{
