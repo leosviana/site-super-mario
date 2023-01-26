@@ -6,5 +6,8 @@ Aulas ensinadas pela equipe DevEmDobro:<br>
 #3 - Desenvolvimento do botão e popup do video trailer do filme (JAVASCRIPT)<br>
 
 SITE FINALIZADO:<br>
-![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario.png)
 https://leosviana.github.io/site-super-mario/
+![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario.png)
+
+BOTÃO "VER TRAILER":
+![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario2.png)
