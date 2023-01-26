@@ -1,4 +1,4 @@
-#WEBSITE DO FILME SUPER MARIO - LANÇAMENTO 03/2023
+WEBSITE DO FILME SUPER MARIO - LANÇAMENTO 03/2023
 
 Aulas ensinadas pela equipe DevEmDobro:<br>
 #1 - Desenvolvimento do layout e estrutura da página (HTML5)<br>
@@ -9,5 +9,5 @@ SITE FINALIZADO:<br>
 https://leosviana.github.io/site-super-mario/
 ![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario1.png)
 
-BOTÃO "VER TRAILER":
+BOTÃO "VEJA O TRAILER":
 ![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario2.png)
