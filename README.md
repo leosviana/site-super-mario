@@ -7,7 +7,7 @@ Aulas ensinadas pela equipe DevEmDobro:<br>
 
 SITE FINALIZADO:<br>
 https://leosviana.github.io/site-super-mario/
-![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario.png)
+![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario1.png)
 
 BOTÃO "VER TRAILER":
 ![image](https://github.com/leosviana/site-super-mario/blob/main/imagens/imagem-website-super-mario2.png)
