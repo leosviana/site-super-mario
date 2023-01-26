@@ -12,7 +12,7 @@ OBJETIVO 2 - quando o usuario clicar no X devemos fechar a modal
 
 const botaoTrailer = document.querySelector(".botao-trailer"); 
 const botaoFecharModal = document.querySelector(".fechar-modal");
-const video = document.getElementById("videoyt");
+const video = document.getElementById("video-youtube");
 const modal = document.querySelector(".modal");
 const linkDoVideo = video.src;
 

@@ -3,7 +3,6 @@ body{
 }
 
 .cabecalho{
-    /* background-color: blue;  cor azul fundo do cabeçalho */
     display: flex; /* Um item ao lado do outro */
     justify-content: space-between; /* espaço entre os itens do cabeçalho */
     padding: 30px;
@@ -71,7 +70,6 @@ body{
 }
 
 .fundo-video{
-    background-color: #d5011d;
     position: absolute;
     z-index: -1;
     width: 100vw;
@@ -96,7 +94,6 @@ body{
 }
 
 .modal{
-    background-color: #d5011d;
     position: fixed;
     height: 100vh;
     width: 100vw;
@@ -128,13 +125,13 @@ body{
     border-radius: 10px;
 }
 
-.modal .aberto{
-    opacity: 1;
-    visibility: visible;
-  }
-
 .modal iframe{
     border-width: 0;
     width: 640px;
     height: 360px;
 }
+
+.modal.aberto{
+    opacity: 1;
+    visibility: visible;
+  }
