@@ -50,7 +50,7 @@
     }
 }
 
-@media(width: 376px){
+@media(max-width: 376px){
     .modal #video{
         width: 250px;
         height: 140px;
